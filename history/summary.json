@@ -4,18 +4,20 @@
     "url": "https://qss.azuma-health.tech/health/doa-gateway",
     "icon": "https://icons.duckduckgo.com/ip3/qss.azuma-health.tech.ico",
     "slug": "azuma-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6482,
-    "timeDay": 13633,
-    "timeWeek": 12762,
-    "timeMonth": 7507,
-    "timeYear": 6482,
-    "dailyMinutesDown": {}
+    "time": 6479,
+    "timeDay": 10001,
+    "timeWeek": 11963,
+    "timeMonth": 7468,
+    "timeYear": 6479,
+    "dailyMinutesDown": {
+      "2023-03-20": 1
+    }
   },
   {
     "name": "azuma: Zero Trust Gateway",
