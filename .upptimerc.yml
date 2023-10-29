@@ -7,6 +7,8 @@ sites:
     url: https://qss.azuma-health.tech/health/doa-gateway
   - name: "azuma: Zero Trust Gateway"
     url: https://qss.azuma-health.tech/health/gateway
+  - name: "azuma: Mimoto"
+    url: https://qss.azuma-health.tech/health/mimoto-auth
   - name: "azuma doa: Identity Service"
     url: https://qss.azuma-health.tech/health/doa-idp
   - name: "azuma doa: Permissions & Access Control"
