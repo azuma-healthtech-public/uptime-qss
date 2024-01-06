@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qss.azuma-health.tech.ico",
     "slug": "azuma-api",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.63%",
     "uptimeMonth": "98.99%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 14723,
     "timeDay": 15889,
     "timeWeek": 15558,
@@ -155,17 +155,19 @@
     "url": "https://qss.azuma-health.tech/health/doa-mailing",
     "icon": "https://icons.duckduckgo.com/ip3/qss.azuma-health.tech.ico",
     "slug": "azuma-doa-mailing-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7214,
-    "timeDay": 7759,
-    "timeWeek": 7684,
-    "timeMonth": 7502,
-    "timeYear": 7214,
-    "dailyMinutesDown": {}
+    "time": 7216,
+    "timeDay": 7842,
+    "timeWeek": 7714,
+    "timeMonth": 7515,
+    "timeYear": 7216,
+    "dailyMinutesDown": {
+      "2024-01-06": 0
+    }
   }
 ]
