@@ -1,7 +1,7 @@
 url: https://qss.azuma-health.tech/health/doa-acl
-status: up
-code: 200
-responseTime: 4976
-lastUpdated: 2024-05-14T23:15:27.033Z
+status: down
+code: 404
+responseTime: 121
+lastUpdated: 2024-05-15T16:13:18.922Z
 startTime: 2023-02-12T09:51:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
