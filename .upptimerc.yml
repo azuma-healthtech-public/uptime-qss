@@ -11,8 +11,6 @@ sites:
     url: https://qss.azuma-health.tech/health/mimoto-auth
   - name: "azuma doa: Identity Service"
     url: https://qss.azuma-health.tech/health/doa-idp
-  - name: "azuma doa: Permissions & Access Control"
-    url: https://qss.azuma-health.tech/health/doa-acl
   - name: "azuma doa: OAuth 2.0 and OpenID Connect Provider"
     url: https://qss.azuma-health.tech/health/doa-oidc
   - name: "azuma doa: Tenant & Organization Service"
