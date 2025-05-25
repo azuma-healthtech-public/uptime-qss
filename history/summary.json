@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
-    "time": 11917,
-    "timeDay": 11674,
-    "timeWeek": 11551,
-    "timeMonth": 12282,
-    "timeYear": 10649,
-    "dailyMinutesDown": {
-      "2024-05-25": 494
-    }
+    "uptimeYear": "99.92%",
+    "time": 11909,
+    "timeDay": 11354,
+    "timeWeek": 11512,
+    "timeMonth": 12276,
+    "timeYear": 10679,
+    "dailyMinutesDown": {}
   },
   {
     "name": "azuma: Zero Trust Gateway",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 162,
-    "timeWeek": 116,
+    "timeDay": 110,
+    "timeWeek": 110,
     "timeMonth": 120,
     "timeYear": 119,
     "dailyMinutesDown": {}
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9233,
-    "timeDay": 10188,
-    "timeWeek": 11283,
-    "timeMonth": 10925,
-    "timeYear": 9368,
+    "time": 9232,
+    "timeDay": 10235,
+    "timeWeek": 11229,
+    "timeMonth": 10785,
+    "timeYear": 9396,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8057,
-    "timeDay": 8680,
-    "timeWeek": 9518,
-    "timeMonth": 9203,
-    "timeYear": 7988,
+    "time": 8060,
+    "timeDay": 9808,
+    "timeWeek": 9687,
+    "timeMonth": 9241,
+    "timeYear": 8015,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5299,
-    "timeDay": 13441,
-    "timeWeek": 8471,
-    "timeMonth": 7352,
-    "timeYear": 5373,
+    "time": 5297,
+    "timeDay": 6055,
+    "timeWeek": 7856,
+    "timeMonth": 7202,
+    "timeYear": 5390,
     "dailyMinutesDown": {}
   },
   {
@@ -103,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 161,
-    "timeWeek": 117,
-    "timeMonth": 121,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {}
   },
@@ -120,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6677,
-    "timeDay": 7521,
-    "timeWeek": 7888,
-    "timeMonth": 8062,
-    "timeYear": 6855,
+    "time": 6679,
+    "timeDay": 7622,
+    "timeWeek": 7603,
+    "timeMonth": 8063,
+    "timeYear": 6876,
     "dailyMinutesDown": {}
   },
   {
@@ -137,15 +135,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.55%",
-    "time": 6837,
-    "timeDay": 6838,
-    "timeWeek": 7378,
-    "timeMonth": 6823,
-    "timeYear": 6761,
+    "uptimeYear": "99.83%",
+    "time": 6836,
+    "timeDay": 6355,
+    "timeWeek": 7339,
+    "timeMonth": 6816,
+    "timeYear": 6778,
     "dailyMinutesDown": {
-      "2024-08-10": 478,
-      "2024-05-25": 494
+      "2024-08-10": 478
     }
   }
 ]
