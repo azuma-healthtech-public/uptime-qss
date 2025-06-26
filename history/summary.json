@@ -58,18 +58,20 @@
     "url": "https://qss.azuma-health.tech/health/doa-idp",
     "icon": "https://icons.duckduckgo.com/ip3/qss.azuma-health.tech.ico",
     "slug": "azuma-doa-identity-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8143,
+    "time": 8142,
     "timeDay": 8741,
     "timeWeek": 9009,
     "timeMonth": 9741,
     "timeYear": 8877,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "azuma doa: OAuth 2.0 and OpenID Connect Provider",
