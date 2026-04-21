@@ -4,18 +4,20 @@
     "url": "https://qss.azuma-health.tech/health/doa-gateway",
     "icon": "https://icons.duckduckgo.com/ip3/qss.azuma-health.tech.ico",
     "slug": "azuma-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 11335,
     "timeDay": 10381,
     "timeWeek": 8797,
     "timeMonth": 8831,
     "timeYear": 11148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-21": 3
+    }
   },
   {
     "name": "azuma: Zero Trust Gateway",
@@ -96,10 +98,10 @@
     "url": "https://qss.azuma-health.tech/health/doa-organization",
     "icon": "https://icons.duckduckgo.com/ip3/qss.azuma-health.tech.ico",
     "slug": "azuma-doa-tenant-and-organization-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
@@ -107,7 +109,9 @@
     "timeWeek": 107,
     "timeMonth": 117,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-21": 1
+    }
   },
   {
     "name": "azuma doa: Administration Service",
